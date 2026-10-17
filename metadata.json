@@ -1,0 +1,6 @@
+{
+  "name": "CoolCare - ระบบจัดการงานบริการและซ่อมบำรุงเครื่องปรับอากาศ",
+  "description": "ระบบบริหารจัดการงานช่างแอร์ บริการลูกค้า นัดหมาย ติดตามงานเรียลไทม์ ออกใบเสนอราคาและรายงานจบงานดิจิทัล พร้อมแจ้งเตือนไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="120" cy="120" r="118" fill="#ffffff"/>
+  <circle cx="120" cy="120" r="114" fill="#ffffff" stroke="#38bdf8" stroke-width="4.5"/>
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#7dd3fc" stroke-width="2.5"/>
+  <g transform="translate(42, 20) scale(1.6)">
+    <path d="M 50 18 C 53 14 57 11 62 10 C 64 9.5 67 10 69 11 C 71 12 73 12.5 75 12 C 77 11.5 79 11 80.5 11.5 C 82 12 82.5 13 81.5 14 C 80.5 15 79.5 16 81 17 C 82 17.5 83.5 18 82.5 19 C 81 20.5 77.5 21.5 75.5 22.5 C 74.5 23 73.5 24 72.5 25 C 71.5 26.5 71 28.5 70.5 31 C 70 34 69.5 36 69 37.5 C 67.5 38.5 65 38 64.5 36 C 64.5 34 65.5 30 66 28 C 65.5 28.5 65 29 64 29.5 C 62.5 30 60.5 30.5 58.5 30 C 57 30 55.5 31 54.5 32 C 52.5 34 50.5 36.5 49 38 C 47.5 38.5 44.5 38 44.5 36.5 C 44.5 34 46 31 47 28 C 46.5 27 45.5 26 44 25 C 41.5 23.5 39.5 22 38.5 20 C 37.5 18 38 16 39 14 C 40.5 11 43.5 10 46.5 10 C 48.5 10 49.5 11 50.5 13 C 51.5 15 52 17.5 52.5 19 Z" fill="#111827"/>
+  </g>
+  <text x="120" y="114" text-anchor="middle" fill="#374151" font-size="26" font-weight="600" font-family="'Prompt', sans-serif">เหนือน้ำแอร์</text>
+  <text x="120" y="150" text-anchor="middle" fill="#4b5563" font-size="25" font-weight="500" font-family="'Prompt', sans-serif">ปทุมธานี</text>
+  <line x1="102" y1="166" x2="138" y2="166" stroke="#4b5563" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="120" y="183" text-anchor="middle" fill="#6b7280" font-size="8.2" font-weight="500" font-family="'Prompt', sans-serif">บริษัท เหนือน้ำแอร์ ปทุมธานี จำกัด</text>
+  <text x="120" y="195" text-anchor="middle" fill="#9ca3af" font-size="6.4" font-weight="500" letter-spacing="1" font-family="sans-serif">NUANAMAIR PATHUM THANI CO., LTD.</text>
+</svg>
